@@ -1,3 +1,8 @@
+| :warning: WARNING           |
+|:----------------------------|
+| This project was done with the help of AI coding agents.     |
+
+
 # DaVinci Resolve MCP Server
 
 A Model Context Protocol (MCP) server for interacting with DaVinci Resolve and Fusion. This server allows AI assistants like Claude to directly interact with and control DaVinci Resolve through the Model Context Protocol.
